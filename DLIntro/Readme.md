@@ -1,5 +1,3 @@
-This folder contains examples of introduction to DL.
-
 This folder contains notebook and dataset for introdution to DL
 
 
